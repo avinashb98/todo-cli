@@ -1,1 +1,10 @@
-[{"detail":"This is a difficult task","done":false},{"detail":"This is another task","done":false}]
+[
+    {
+        "detail":"This is a difficult task",
+        "done":false
+    },
+    {
+        "detail":"This is another task",
+        "done":false
+    }
+]
