@@ -1,0 +1,22 @@
+{
+  "name": "todo-cli",
+  "version": "0.0.1",
+  "description": "To-do list that runs on cli",
+  "main": "index.js",
+  "scripts": {
+    "todo": "node lib/index.js"
+  },
+  "keywords": [
+    "utility",
+    "cli-tool",
+    "todo",
+    "get-shit-done",
+    "productivity"
+  ],
+  "author": "Avinash Anubhuti",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1"
+  }
+}
